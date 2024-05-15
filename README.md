@@ -15,8 +15,8 @@
 
 ### Program:
 ```
-Name:Lakshmi Priya P
-Reg No:212221230053
+Name:ANANTTHAVARTHAN S
+Reg No:212221043001
 ```
 ```
 # read the data
